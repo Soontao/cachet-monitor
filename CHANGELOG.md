@@ -2,6 +2,15 @@
 ## [Unreleased]
 
 
+<a name="v3.8.0"></a>
+## [v3.8.0] - 2019-05-08
+### Chore
+- **release:** new version
+
+### Tls
+- extend timeout
+
+
 <a name="v3.7.5"></a>
 ## [v3.7.5] - 2019-04-29
 ### Chore
@@ -221,7 +230,8 @@
 <a name="v1.0.0"></a>
 ## v1.0.0 - 2015-03-21
 
-[Unreleased]: https://github.com/Soontao/cachet-monitor/compare/v3.7.5...HEAD
+[Unreleased]: https://github.com/Soontao/cachet-monitor/compare/v3.8.0...HEAD
+[v3.8.0]: https://github.com/Soontao/cachet-monitor/compare/v3.7.5...v3.8.0
 [v3.7.5]: https://github.com/Soontao/cachet-monitor/compare/v3.7.4...v3.7.5
 [v3.7.4]: https://github.com/Soontao/cachet-monitor/compare/v3.7.3...v3.7.4
 [v3.7.3]: https://github.com/Soontao/cachet-monitor/compare/v3.7.2...v3.7.3
